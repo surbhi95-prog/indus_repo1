@@ -1,0 +1,8 @@
+Quotation #QT-001
+Customer: ABC Ltd
+
+GH-220 Bolt
+Qty: 1000
+Price: ₹5 each
+
+Total: ₹5000
